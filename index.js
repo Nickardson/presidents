@@ -5,6 +5,11 @@ exports.presidents = [
     term: {
       startYear: 1789,
       endYear: 1797
+    },
+    party: "Federalist",
+    life: {
+      birthYear: 1732,
+      deathYear: 1799
     }
   },
   {
@@ -13,6 +18,11 @@ exports.presidents = [
     term: {
       startYear: 1797,
       endYear: 1801
+    },
+    party: "Federalist",
+    life: {
+      birthYear: 1735,
+      deathYear: 1826
     }
   },
   {
@@ -21,6 +31,11 @@ exports.presidents = [
     term: {
       startYear: 1801,
       endYear: 1809
+    },
+    party: "Democratic-Republican",
+    life: {
+      birthYear: 1743,
+      deathYear: 1826
     }
   },
   {
@@ -29,6 +44,11 @@ exports.presidents = [
     term: {
       startYear: 1809,
       endYear: 1817
+    },
+    party: "Democratic-Republican",
+    life: {
+      birthYear: 1751,
+      deathYear: 1836
     }
   },
   {
@@ -37,6 +57,11 @@ exports.presidents = [
     term: {
       startYear: 1817,
       endYear: 1825
+    },
+    party: "Democratic-Republican",
+    life: {
+      birthYear: 1758,
+      deathYear: 1831
     }
   },
   {
@@ -45,6 +70,11 @@ exports.presidents = [
     term: {
       startYear: 1825,
       endYear: 1829
+    },
+    party: "Democratic-Republican",
+    life: {
+      birthYear: 1767,
+      deathYear: 1848
     }
   },
   {
@@ -53,6 +83,11 @@ exports.presidents = [
     term: {
       startYear: 1829,
       endYear: 1837
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1767,
+      deathYear: 1845
     }
   },
   {
@@ -61,6 +96,11 @@ exports.presidents = [
     term: {
       startYear: 1837,
       endYear: 1841
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1782,
+      deathYear: 1862
     }
   },
   {
@@ -69,6 +109,11 @@ exports.presidents = [
     term: {
       startYear: 1841,
       endYear: 1841
+    },
+    party: "Whig",
+    life: {
+      birthYear: 1773,
+      deathYear: 1841
     }
   },
   {
@@ -77,6 +122,11 @@ exports.presidents = [
     term: {
       startYear: 1841,
       endYear: 1845
+    },
+    party: "Whig",
+    life: {
+      birthYear: 1790,
+      deathYear: 1862
     }
   },
   {
@@ -85,6 +135,11 @@ exports.presidents = [
     term: {
       startYear: 1845,
       endYear: 1849
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1795,
+      deathYear: 1849
     }
   },
   {
@@ -93,6 +148,11 @@ exports.presidents = [
     term: {
       startYear: 1849,
       endYear: 1850
+    },
+    party: "Whig",
+    life: {
+      birthYear: 1784,
+      deathYear: 1850
     }
   },
   {
@@ -101,6 +161,11 @@ exports.presidents = [
     term: {
       startYear: 1850,
       endYear: 1853
+    },
+    party: "Whig",
+    life: {
+      birthYear: 1800,
+      deathYear: 1874
     }
   },
   {
@@ -109,6 +174,11 @@ exports.presidents = [
     term: {
       startYear: 1853,
       endYear: 1857
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1804,
+      deathYear: 1869
     }
   },
   {
@@ -117,6 +187,11 @@ exports.presidents = [
     term: {
       startYear: 1857,
       endYear: 1861
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1791,
+      deathYear: 1868
     }
   },
   {
@@ -125,6 +200,11 @@ exports.presidents = [
     term: {
       startYear: 1861,
       endYear: 1865
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1809,
+      deathYear: 1865
     }
   },
   {
@@ -133,6 +213,11 @@ exports.presidents = [
     term: {
       startYear: 1865,
       endYear: 1869
+    },
+    party: "National Union",
+    life: {
+      birthYear: 1808,
+      deathYear: 1875
     }
   },
   {
@@ -141,6 +226,11 @@ exports.presidents = [
     term: {
       startYear: 1869,
       endYear: 1877
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1822,
+      deathYear: 1885
     }
   },
   {
@@ -149,6 +239,11 @@ exports.presidents = [
     term: {
       startYear: 1877,
       endYear: 1881
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1822,
+      deathYear: 1893
     }
   },
   {
@@ -157,6 +252,11 @@ exports.presidents = [
     term: {
       startYear: 1881,
       endYear: 1881
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1831,
+      deathYear: 1881
     }
   },
   {
@@ -165,6 +265,11 @@ exports.presidents = [
     term: {
       startYear: 1881,
       endYear: 1885
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1829,
+      deathYear: 1886
     }
   },
   {
@@ -173,6 +278,11 @@ exports.presidents = [
     term: {
       startYear: 1885,
       endYear: 1889
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1837,
+      deathYear: 1908
     }
   },
   {
@@ -181,6 +291,11 @@ exports.presidents = [
     term: {
       startYear: 1889,
       endYear: 1893
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1833,
+      deathYear: 1901
     }
   },
   {
@@ -189,6 +304,11 @@ exports.presidents = [
     term: {
       startYear: 1893,
       endYear: 1897
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1837,
+      deathYear: 1908
     }
   },
   {
@@ -197,6 +317,11 @@ exports.presidents = [
     term: {
       startYear: 1897,
       endYear: 1901
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1843,
+      deathYear: 1901
     }
   },
   {
@@ -205,6 +330,11 @@ exports.presidents = [
     term: {
       startYear: 1901,
       endYear: 1909
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1858,
+      deathYear: 1919
     }
   },
   {
@@ -213,6 +343,11 @@ exports.presidents = [
     term: {
       startYear: 1909,
       endYear: 1913
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1857,
+      deathYear: 1930
     }
   },
   {
@@ -221,6 +356,11 @@ exports.presidents = [
     term: {
       startYear: 1913,
       endYear: 1921
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1856,
+      deathYear: 1924
     }
   },
   {
@@ -229,6 +369,11 @@ exports.presidents = [
     term: {
       startYear: 1921,
       endYear: 1923
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1865,
+      deathYear: 1923
     }
   },
   {
@@ -237,6 +382,11 @@ exports.presidents = [
     term: {
       startYear: 1923,
       endYear: 1929
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1872,
+      deathYear: 1933
     }
   },
   {
@@ -245,6 +395,11 @@ exports.presidents = [
     term: {
       startYear: 1929,
       endYear: 1933
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1874,
+      deathYear: 1964
     }
   },
   {
@@ -253,6 +408,11 @@ exports.presidents = [
     term: {
       startYear: 1933,
       endYear: 1945
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1882,
+      deathYear: 1945
     }
   },
   {
@@ -261,6 +421,11 @@ exports.presidents = [
     term: {
       startYear: 1945,
       endYear: 1953
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1884,
+      deathYear: 1972
     }
   },
   {
@@ -269,6 +434,11 @@ exports.presidents = [
     term: {
       startYear: 1953,
       endYear: 1961
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1890,
+      deathYear: 1969
     }
   },
   {
@@ -277,6 +447,11 @@ exports.presidents = [
     term: {
       startYear: 1961,
       endYear: 1963
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1917,
+      deathYear: 1963
     }
   },
   {
@@ -285,6 +460,11 @@ exports.presidents = [
     term: {
       startYear: 1963,
       endYear: 1969
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1908,
+      deathYear: 1973
     }
   },
   {
@@ -293,6 +473,11 @@ exports.presidents = [
     term: {
       startYear: 1969,
       endYear: 1974
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1913,
+      deathYear: 1994
     }
   },
   {
@@ -301,6 +486,11 @@ exports.presidents = [
     term: {
       startYear: 1974,
       endYear: 1977
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1913,
+      deathYear: 2006
     }
   },
   {
@@ -309,6 +499,10 @@ exports.presidents = [
     term: {
       startYear: 1977,
       endYear: 1981
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1924
     }
   },
   {
@@ -317,6 +511,11 @@ exports.presidents = [
     term: {
       startYear: 1981,
       endYear: 1989
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1911,
+      deathYear: 2004
     }
   },
   {
@@ -325,6 +524,10 @@ exports.presidents = [
     term: {
       startYear: 1989,
       endYear: 1993
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1924
     }
   },
   {
@@ -333,6 +536,10 @@ exports.presidents = [
     term: {
       startYear: 1993,
       endYear: 2001
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1946
     }
   },
   {
@@ -341,6 +548,10 @@ exports.presidents = [
     term: {
       startYear: 2001,
       endYear: 2009
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1946
     }
   },
   {
@@ -349,6 +560,10 @@ exports.presidents = [
     term: {
       startYear: 2009,
       endYear: 2017
+    },
+    party: "Democrat",
+    life: {
+      birthYear: 1961
     }
   },
   {
@@ -356,6 +571,10 @@ exports.presidents = [
     name: "Donald Trump",
     term: {
       startYear: 2017
+    },
+    party: "Republican",
+    life: {
+      birthYear: 1946
     }
-  },
+  }
 ];

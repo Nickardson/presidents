@@ -30,6 +30,26 @@ declare module "presidents" {
        * Year left office, or undefined if the president hasn't left office yet.
        */
       endYear?: number,
+    };
+
+    /**
+     * The party this president belongs to / belonged to while in office.
+     */
+    party: string;
+
+    /**
+     * Information about birth/death.
+     */
+    life: {
+      /**
+       * The year of birth.
+       */
+      birthYear: number;
+
+      /**
+       * The year of death, or undefined if not dead.
+       */
+      deathYear?: number;
     }
   }
 
